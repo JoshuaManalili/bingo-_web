@@ -65,13 +65,13 @@ let counter = 5;
 //    counter--;
 // }
 
-//while(counter >= 0){
+// while(counter >= 0){
 //    console.log(`Current counter is ${counter}`);
 //    if (counter == 2) break;
 //    counter--;
 // }
 
- while (B == false && I == false && N == false && G == false && O == false) {
+ while (B == false || I == false || N == false || G == false || O == false) {
     newNumber(75);
     
 }
